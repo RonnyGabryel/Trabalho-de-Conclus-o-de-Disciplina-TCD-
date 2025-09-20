@@ -1,0 +1,37 @@
+==============================================
+RELATORIO DE TEMPOS DE EXECUCAO
+TCD - ALGORITMOS E PROGRAMACAO II
+==============================================
+CONFIGURACAO DO TESTE
+==============================================
+
+Arquivo testado: Dados
+Quantidade de elementos: 20
+Execucoes por algoritmo: 100 (media aritmetica)
+Sistema operacional: Windows/Linux
+Compilador: Code block
+
+==============================================
+TEMPOS DE EXECUCAO DOS ALGORITMOS DE ORDENACAO
+(Valores em milissegundos - media de 100 execucoes)
+==============================================
+
+Bubble Sort:     [0.0047490001] ms
+Insertion Sort:  [0.0042599998] ms  
+Selection Sort:  [0.0039109997] ms
+Merge Sort:      [0.0072639999] ms
+Quick Sort:      [0.0051690000] ms
+Shell Sort:      [0.0033529997] ms (ALGORITMO EXTRA)
+
+==============================================
+TEMPOS DE EXECUCAO DAS BUSCAS
+(Valores em milissegundos - media de 100 execucoes)
+==============================================
+
+Busca Linear:    [0.0032819998] ms
+Busca Binaria:   [0.0034229998] ms
+
+Elemento buscado: [20]
+Resultado: [Numero 20 encontrada no posicao 19]
+
+==============================================
