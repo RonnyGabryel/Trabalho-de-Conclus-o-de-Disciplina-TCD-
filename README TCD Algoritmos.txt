@@ -3,10 +3,10 @@ TCD - ALGORITMOS E PROGRAMACAO II
 ==============================================
 
 INTEGRANTES DO GRUPO:
-- Bruno Correa Cassiano Pires Nitsche – 32321BSI
-- Rafaela Franca Pires Mariano – 32421BSI017  
-- Ronny Gabryel Colatino de Souza – 32321BSI019
-- Marya Ysabella Colatino de Souza – 32421BSI003
+- Bruno Correa Cassiano Pires Nitsche 
+- Rafaela Franca Pires Mariano   
+- Ronny Gabryel Colatino de Souza 
+- Marya Ysabella Colatino de Souza
 ==============================================
 COMO USAR O PROGRAMA
 ==============================================
